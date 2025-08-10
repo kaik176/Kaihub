@@ -1,2 +1,2 @@
 # Kaihub
-Algo
+script
